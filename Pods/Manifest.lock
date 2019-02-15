@@ -1,0 +1,16 @@
+PODS:
+  - EZFlutterSDK (0.0.1)
+
+DEPENDENCIES:
+  - EZFlutterSDK (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EZFlutterSDK
+
+SPEC CHECKSUMS:
+  EZFlutterSDK: 70240a353c392c224a1b6d44b00f6de1e42b2207
+
+PODFILE CHECKSUM: d688786cfa217ecf0d828438b487e9fd14d6d55f
+
+COCOAPODS: 1.6.0
